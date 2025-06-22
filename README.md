@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  <img src="./Images/1.png" alt="Logo" width="100%" height="100%">
+  <img src="./Images/Home.png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
@@ -25,9 +25,9 @@
 - Create an Elastic IP so that the IP address remains constant.
 
 <div align="center">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
-   <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
-   <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
+  <img src="./Images/Elastic IP 1.png" alt="Logo" width="70%" height="70%">
+  <img src="./Images/Elastic IP 2.png" alt="Logo" width="70%" height="70%">
+  <img src="./Images/Elastic IP 3.png" alt="Logo" width="70%" height="70%">
 </div>
 
 **Step 2: Clone the Code:**
@@ -77,8 +77,8 @@ It will show an error cause you need API key
 - You will receive your TMDB API key.
 
 <div align="center">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
+  <img src="./Images/TMDB 1.png" alt="Logo" width="70%" height="70%">
+  <img src="./Images/TMDB 2.png" alt="Logo" width="70%" height="70%">
 </div>
 
 Now recreate the Docker image with your api key:
@@ -116,7 +116,7 @@ docker build --build-arg TMDB_V3_API_KEY=<your-api-key> -t netflix .
         ```
 
 <div align="center">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
+  <img src="./Images/Trivy image scan.png" alt="Logo" width="70%" height="70%">
 </div>
 
         
@@ -372,8 +372,8 @@ pipeline{
    ```
 
 <div align="center">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
+  <img src="./Images/Pipeline.png" alt="Logo" width="70%" height="70%">
+  <img src="./Images/Docker Hub image.png" alt="Logo" width="70%" height="70%">
 </div>
 
 **Phase 4: Monitoring**
@@ -575,7 +575,7 @@ pipeline{
    `http://<your-prometheus-ip>:9090/targets`
 
 <div align="center">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
+  <img src="./Images/Prometheus.png" alt="Logo" width="70%" height="70%">
 </div>
 
 ####Grafana
@@ -695,9 +695,9 @@ That's it! You've successfully installed and set up Grafana to work with Prometh
 
 
 <div align="center">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
-  <img src="./Images/1.png" alt="Logo" width="50%" height="50%">
+  <img src="./Images/Grafana Dashboard.png" alt="Logo" width="70%" height="70%">
+  <img src="./Images/Grafana Jenkins.png" alt="Logo" width="70%" height="70%">
+  <img src="./Images/Grafana Node Exporter.png" alt="Logo" width="70%" height="70%">
 </div>
 
 
