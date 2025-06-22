@@ -704,4 +704,7 @@ That's it! You've successfully installed and set up Grafana to work with Prometh
 **Phase 5: Cleanup**
 
 1. **Cleanup AWS EC2 Instances:**
-    - Terminate AWS EC2 instances that are no longer needed.
+    Terminate AWS EC2 instances that are no longer in use.
+
+# **Youtube Video for step-by-step Demonstration!**
+[![Video Tutorial]](https://youtu.be/g8X5AoqCJHc)
