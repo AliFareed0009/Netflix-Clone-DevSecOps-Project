@@ -15,7 +15,11 @@ Linux, GitHub, Docker, Jenkins, Kubernetes, OWASP, Trivy, AWS, Prometheus and Gr
 ### Impact: 
 Spearheaded a cloud-native DevSecOps pipeline for a Netflix Clone on AWS, driving 65% faster deployments, 90% fewer security issues, and real-time observability with Kubernetes-native tooling.
 
-
+<div align="center">
+  <h1 align="center">WorkFlow of the Project</h1>
+</div>
+<br />
+<br />
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
@@ -25,6 +29,7 @@ Spearheaded a cloud-native DevSecOps pipeline for a Netflix Clone on AWS, drivin
   </a>
 </div>
 
+<br />
 <br />
 
 <div align="center">
