@@ -17,25 +17,19 @@ Spearheaded a cloud-native DevSecOps pipeline for a Netflix Clone on AWS, drivin
 
 <div align="center">
   <h1 align="center">WorkFlow of the Project</h1>
-</div>
-<br />
-<br />
-<div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
-
-  <br>
-  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
-  </a>
 </div>
 
 <br />
-<br />
 
 <div align="center">
+  <br>
+  <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
   <img src="./Images/Home.png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
+
+<br />
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
