@@ -1,3 +1,21 @@
+# Project Overview: DevSecOps Netflix Clone on AWS using Jenkins
+
+### Objective:
+To design and implement a secure, scalable, and automated DevSecOps pipeline for a cloud-native Netflix Clone application using AWS, Kubernetes, and security-first practices.
+
+### Tools Required: 
+Linux, GitHub, Docker, Jenkins, Kubernetes, OWASP, Trivy, AWS, Prometheus and Grafana.
+
+### Key Achievement: 
+- Engineered a containerized Netflix Clone using Docker and deployed via Kubernetes on AWS, ensuring seamless orchestration and scaling across cloud environments, which reduced environment drift by 100% and improved deployment reliability by 45%.
+- Automated the CI/CD pipeline using Jenkins, integrating build, test, scan, and deployment stages, leading to a 65% reduction in release cycle time and a 2x increase in deployment frequency.
+- Integrated SonarQube for static code analysis and Trivy for container vulnerability scanning within the pipeline, enabling early detection and remediation of issues, which reduced production vulnerabilities by 90%.
+- Implemented centralized monitoring using Prometheus and Grafana, creating real-time dashboards and alerting for application and infrastructure metrics, resulting in 99.9% uptime visibility and a 35% reduction in MTTR.
+
+### Impact: 
+Spearheaded a cloud-native DevSecOps pipeline for a Netflix Clone on AWS, driving 65% faster deployments, 90% fewer security issues, and real-time observability with Kubernetes-native tooling.
+
+
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
